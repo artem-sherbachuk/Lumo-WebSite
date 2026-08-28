@@ -1,14 +1,1186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://learnwithlumo.app/</loc><lastmod>2026-08-28</lastmod><priority>1.0</priority></url>
-  <url><loc>https://learnwithlumo.app/learn-croatian.html</loc><lastmod>2026-08-28</lastmod><priority>0.9</priority></url>
-  <url><loc>https://learnwithlumo.app/learn-serbian.html</loc><lastmod>2026-08-28</lastmod><priority>0.9</priority></url>
-  <url><loc>https://learnwithlumo.app/features.html</loc><lastmod>2026-08-28</lastmod><priority>0.9</priority></url>
-  <url><loc>https://learnwithlumo.app/journey.html</loc><lastmod>2026-08-28</lastmod><priority>0.9</priority></url>
-  <url><loc>https://learnwithlumo.app/guides/</loc><lastmod>2026-08-28</lastmod><priority>0.8</priority></url>
-  <url><loc>https://learnwithlumo.app/guides/croatian-basics.html</loc><lastmod>2026-08-28</lastmod><priority>0.8</priority></url>
-  <url><loc>https://learnwithlumo.app/guides/croatian-vs-serbian.html</loc><lastmod>2026-08-28</lastmod><priority>0.8</priority></url>
-  <url><loc>https://learnwithlumo.app/guides/pronunciation.html</loc><lastmod>2026-08-28</lastmod><priority>0.8</priority></url>
-  <url><loc>https://learnwithlumo.app/about.html</loc><lastmod>2026-08-28</lastmod><priority>0.6</priority></url>
-  <url><loc>https://learnwithlumo.app/support.html</loc><lastmod>2026-08-28</lastmod><priority>0.6</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://learnwithlumo.app/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/ru/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/de/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/fr/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/es/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/tr/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/zh/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/learn-croatian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-croatian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/ru/learn-croatian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-croatian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/de/learn-croatian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-croatian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/fr/learn-croatian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-croatian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/es/learn-croatian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-croatian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/tr/learn-croatian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-croatian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/zh/learn-croatian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-croatian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-croatian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/learn-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/ru/learn-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/de/learn-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/fr/learn-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/es/learn-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/tr/learn-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/zh/learn-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/learn-montenegrin.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/ru/learn-montenegrin.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/de/learn-montenegrin.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/fr/learn-montenegrin.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/es/learn-montenegrin.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/tr/learn-montenegrin.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/zh/learn-montenegrin.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-montenegrin.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-montenegrin.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/learn-bosnian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-bosnian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/ru/learn-bosnian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-bosnian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/de/learn-bosnian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-bosnian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/fr/learn-bosnian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-bosnian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/es/learn-bosnian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-bosnian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/tr/learn-bosnian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-bosnian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/zh/learn-bosnian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/learn-bosnian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/learn-bosnian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/features.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/features.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/features.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/features.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/features.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/features.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/features.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/ru/features.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/features.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/features.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/features.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/features.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/features.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/features.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/de/features.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/features.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/features.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/features.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/features.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/features.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/features.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/fr/features.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/features.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/features.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/features.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/features.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/features.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/features.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/es/features.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/features.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/features.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/features.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/features.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/features.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/features.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/tr/features.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/features.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/features.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/features.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/features.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/features.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/features.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/zh/features.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/features.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/features.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/features.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/features.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/features.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/features.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/features.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/journey.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/journey.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/ru/journey.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/journey.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/de/journey.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/journey.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/fr/journey.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/journey.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/es/journey.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/journey.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/tr/journey.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/journey.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/zh/journey.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/journey.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/journey.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/guides/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/ru/guides/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/de/guides/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/fr/guides/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/es/guides/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/tr/guides/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/zh/guides/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/guides/croatian-basics.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/ru/guides/croatian-basics.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/de/guides/croatian-basics.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/fr/guides/croatian-basics.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/es/guides/croatian-basics.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/tr/guides/croatian-basics.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/zh/guides/croatian-basics.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-basics.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/guides/croatian-vs-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/ru/guides/croatian-vs-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/de/guides/croatian-vs-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/fr/guides/croatian-vs-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/es/guides/croatian-vs-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/tr/guides/croatian-vs-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/zh/guides/croatian-vs-serbian.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/croatian-vs-serbian.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/croatian-vs-serbian.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/guides/pronunciation.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/ru/guides/pronunciation.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/de/guides/pronunciation.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/fr/guides/pronunciation.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/es/guides/pronunciation.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/tr/guides/pronunciation.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/zh/guides/pronunciation.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/guides/pronunciation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/guides/pronunciation.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/about.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/about.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/ru/about.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/about.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/de/about.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/about.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/fr/about.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/about.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/es/about.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/about.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/tr/about.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/about.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/zh/about.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/about.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/support.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/ru/support.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/de/support.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/fr/support.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/es/support.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/tr/support.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://learnwithlumo.app/zh/support.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://learnwithlumo.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://learnwithlumo.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://learnwithlumo.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://learnwithlumo.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://learnwithlumo.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://learnwithlumo.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://learnwithlumo.app/zh/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://learnwithlumo.app/support.html"/>
+  </url>
 </urlset>

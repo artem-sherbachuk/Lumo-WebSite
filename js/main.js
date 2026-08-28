@@ -127,6 +127,9 @@
     };
     resize();
     window.addEventListener("resize", resize);
+    if ("ResizeObserver" in window) {
+      new ResizeObserver(resize).observe(canvas);
+    }
 
     var COUNT = Math.min(28, Math.floor(window.innerWidth / 42));
     for (var i = 0; i < COUNT; i++) {
