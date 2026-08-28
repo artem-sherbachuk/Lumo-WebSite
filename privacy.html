@@ -42,7 +42,7 @@
       <div class="container">
         <p class="eyebrow reveal">Legal</p>
         <h1 class="reveal" style="--d:.06s">Privacy <span class="gold">Policy</span></h1>
-        <p class="lead reveal" style="--d:.12s">Last updated: August 28, 2026</p>
+        <p class="lead reveal" style="--d:.12s">Last updated: August 29, 2026</p>
       </div>
     </section>
 
@@ -50,16 +50,16 @@
       <p>This Privacy Policy describes how Lumo (“we,” “us,” or “our”) handles information in connection with the Lumo mobile application (the “App”) and the website learnwithlumo.app (the “Site”). We keep this policy short on purpose — and we keep the data we collect short on purpose, too.</p>
 
       <h2>1. Information we collect</h2>
-      <h3>Voice audio</h3>
-      <p>Lumo's core feature is speaking practice. When you use a speaking exercise, the App records your voice for the purpose of evaluating your pronunciation. Audio is processed to produce feedback and is not used to identify you, build a voice profile, or serve advertising.</p>
+      <h3>Voice audio and exercise answers</h3>
+      <p>Lumo's core feature is speaking practice. When you use a speaking exercise or talk with a character, the App records or streams your voice and sends it to Google's Gemini AI service (via Firebase) solely to evaluate your pronunciation or generate the character's reply. Written exercise answers are sent the same way for grading. This content is not used to identify you, build a voice profile, or serve advertising, and we do not store your recordings on any server of our own.</p>
       <h3>Learning progress</h3>
-      <p>We store your game progress — completed chapters, mastered phrases, earned rewards, and phrasebook contents — so that your journey is saved and can be restored across devices.</p>
-      <h3>Account information</h3>
-      <p>If you create an account or sign in (for example, with Sign in with Apple), we receive the identifier associated with that sign-in method. We do not request more personal information than is needed to operate your account.</p>
+      <p>Your game progress — completed chapters, mastered phrases, earned rewards, journal notes, and the nickname you choose in the story — is stored locally on your device. We do not maintain user accounts and do not sync your progress to our servers. Small summaries of your progress (for example, phrases you find difficult, and your in-game nickname) may be included in AI requests so characters can personalize the conversation.</p>
       <h3>Purchase information</h3>
-      <p>Purchases and subscriptions are processed by Apple through the App Store. We do not receive or store your payment card details. We may receive anonymized transaction records (for example, that a subscription is active) in order to unlock content you have purchased.</p>
+      <p>Purchases and subscriptions are processed by Apple through the App Store. We do not receive or store your payment card details. Our subscription-management provider (RevenueCat) receives anonymized transaction records tied to a random identifier — not to your name or email — in order to unlock content you have purchased.</p>
+      <h3>Push notifications</h3>
+      <p>If you allow notifications, a pseudonymous device token is registered with Apple's and Google's push services (Firebase Cloud Messaging) so we can announce new chapters. Practice reminders are generated locally on your device.</p>
       <h3>Diagnostics and analytics</h3>
-      <p>We may collect anonymized crash reports and aggregate usage statistics (for example, which chapters players complete) to fix bugs and improve the App. This data is not used to identify individual users.</p>
+      <p>The App does not include third-party analytics or crash-reporting SDKs, and analytics collection is disabled in our configuration. A device-integrity check (Apple App Attest) is used to protect our AI services from abuse; it transmits device attestation signals, not personal content.</p>
 
       <h2>2. What we do NOT do</h2>
       <ul>
@@ -70,10 +70,10 @@
       </ul>
 
       <h2>3. Service providers</h2>
-      <p>We use a small number of trusted service providers to operate the App — for example, cloud infrastructure for storing progress, speech-processing services for pronunciation feedback, and subscription-management tooling. These providers process data only on our behalf and under agreements that protect it.</p>
+      <p>We use a small number of trusted service providers to operate the App: Google (Firebase and the Gemini AI service — speech and text processing for pronunciation feedback and character conversations, push notifications, remote configuration, and app-integrity checks), RevenueCat (subscription management), and a content-delivery network that serves downloadable chapter assets (these downloads carry no personal data). These providers process data to provide their service to us, under their own privacy commitments.</p>
 
       <h2>4. Data retention</h2>
-      <p>Learning progress is retained while your account is active so that your journey isn't lost. Voice audio is used for evaluation and is not retained longer than necessary for that purpose. You may request deletion of your data at any time (see Section 6).</p>
+      <p>Learning progress lives on your device: deleting the App deletes it. Voice audio and exercise answers are processed to produce feedback and are not retained by us; our AI provider may retain request data briefly for abuse prevention under its own policies. You may contact us about your data at any time (see Section 6).</p>
 
       <h2>5. Children's privacy</h2>
       <p>The App is designed for a general audience and does not knowingly collect personal information from children under 13 (or the equivalent minimum age in your jurisdiction) without appropriate consent. If you believe a child has provided us personal information, contact us and we will delete it.</p>
