@@ -176,6 +176,19 @@
     requestAnimationFrame(draw);
   }
 
+  /* ---------- Language dropdown: close on outside click / Escape ---------- */
+  var langMenu = document.querySelector(".lang-menu");
+  if (langMenu) {
+    document.addEventListener("click", function (e) {
+      if (langMenu.hasAttribute("open") && !langMenu.contains(e.target)) {
+        langMenu.removeAttribute("open");
+      }
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") langMenu.removeAttribute("open");
+    });
+  }
+
   /* ---------- Footer year ---------- */
   document.querySelectorAll("[data-year]").forEach(function (el) {
     el.textContent = new Date().getFullYear();
